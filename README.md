@@ -119,3 +119,12 @@
 |--------------------|-------|----|
 | Ex-vivo            | 39    | 75 |
 | In-vitro           | 13    | 25 |
+
+
+
+[Piechart_1.pdf](https://github.com/gxb-sidra/SysInflam-HuDB/files/6290561/Piechart_1.pdf)
+
+
+[Piechart_2.pdf](https://github.com/gxb-sidra/SysInflam-HuDB/files/6290563/Piechart_2.pdf)
+
+
