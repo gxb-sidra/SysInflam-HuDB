@@ -78,3 +78,44 @@
 
 
 
+
+
+| Group of   interest   | Count | %          |
+|-----------------------|-------|------------|
+| Sepsis                | 25    | 48.0769231 |
+| Septic shock          | 10    | 19.2307692 |
+| LPS exposure          | 7     | 13.4615385 |
+| S. aureus infection   | 3     | 5.76923077 |
+| Bacterial infection   | 2     | 3.84615385 |
+| SIRS                  | 1     | 1.92307692 |
+| Blood infection       | 1     | 1.92307692 |
+| E. coli exposure      | 1     | 1.92307692 |
+| Systemic Inflammation | 1     | 1.92307692 |
+| Clarkson's Disease    | 1     | 1.92307692 |
+
+
+| Sample   type                         | Count | %          |
+|---------------------------------------|-------|------------|
+| Whole Blood                           | 32    | 61.5384615 |
+| PBMCs                                 | 7     | 13.4615385 |
+| Neutrophils                           | 5     | 9.61538462 |
+| Cardiac tissue                        | 1     | 1.92307692 |
+| Induced sputum                        | 1     | 1.92307692 |
+| Monocytes                             | 3     | 5.76923077 |
+| Whole Blood, lymphocytes,   monocytes | 1     | 1.92307692 |
+| Dendritic cells                       | 1     | 1.92307692 |
+| THP-1                                 | 1     | 1.92307692 |
+
+
+| Age       | Count | %          |
+|-----------|-------|------------|
+| Adult     | 39    | 75         |
+| Neonate   | 2     | 3.84615385 |
+| Pediatric | 11    | 21.1538462 |
+
+
+
+| (In-vitro/Ex-vivo) | Count | %  |
+|--------------------|-------|----|
+| Ex-vivo            | 39    | 75 |
+| In-vitro           | 13    | 25 |
