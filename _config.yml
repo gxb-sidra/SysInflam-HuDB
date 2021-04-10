@@ -1,1 +1,5 @@
+title: SysInflam HuDB, a web resource for mining transcriptomic data associated with systemic inflammatory responses to sepsis
+description: Systems Biology and Immunology Lab
 theme: jekyll-theme-cayman
+github:
+  is_project_page: false
