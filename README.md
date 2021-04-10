@@ -19,7 +19,7 @@
 
 
 
-**May 16, 2020 - Sysinflam HuDB Dataset Release is out with 52 studies and 4 updated studies with additional datasets**
+**May 16, 2020 - Sysinflam HuDB Dataset Release is out with 52 studies**
 
 
 | Dataset ID |           Platform ID           |                                                                           Platform Name                                                                          | Technology |                                                 Disease/Treatment/Therapy                                                |                                            |                         | Cohort Age Group |              Sample Type              |                                          | Reported Cell Purity (For Isolated Cells). NAP   = Not Applicable, NAV = Not Available/Reported |                                                                              | Total Number of   Samples in the Dataset | Experimental   Design |                                  Group   Comparison                                  |                                       Size of Groups   Compared                                      |         Group   Comparison reported in associated publication and tested for Validation         |                 Related Pubmed   ID                |                                Trend   Validation                                |                             Fold Change   Validation                             |           Comments   Regarding Validation Status          |
