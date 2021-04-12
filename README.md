@@ -82,5 +82,5 @@
 
 
 ***For diseases, code were obtained from the 2021 ICD-10-CM (International Classification of Diseases, Tenth Revision, Clinical Modification; https://www.cdc.gov/nchs/index.htm).
-**+ https://rarediseases.info.nih.gov/diseases/1084/systemic-capillary-leak-syndrome
+**+https://rarediseases.info.nih.gov/diseases/1084/systemic-capillary-leak-syndrome
 ** NAP = Not applicable
