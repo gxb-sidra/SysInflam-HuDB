@@ -1,6 +1,6 @@
 title: SysInflam HuDB Dataset Release and Updates
 description: Maintained by Systems Biology and Immunology Lab - Sidra Medicine
-Landing Page: SysInflam HuDB: http://sepsis.gxbsidra.org/dm3/landing.gsp
+description: SysInflam HuDB Landing Page - http://sepsis.gxbsidra.org/dm3/landing.gsp
 theme: jekyll-theme-cayman
 github:
   is_project_page: false
