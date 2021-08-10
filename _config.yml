@@ -1,8 +1,5 @@
 title: SysInflam HuDB Dataset Release and Updates
-description: <a href="http://example.com/" style="color:#FF0000;">Red Link</a>
+description: <a href="http://sepsis.gxbsidra.org/dm3/landing.gsp/" style="color:#FFFFFF;">SysInflam HuDB Landing Page</a>
 theme: jekyll-theme-cayman
 github:
   is_project_page: false
-
-
-<a href="http://sepsis.gxbsidra.org/dm3/landing.gsp/" style="color:#FFFFFF;">SysInflam HuDB Landing Page</a>
