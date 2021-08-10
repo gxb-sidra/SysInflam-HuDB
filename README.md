@@ -1,6 +1,6 @@
 # SysInflam HuDB Dataset Release and Updates
 
-Developed and maintained by Laboratory of Translational Systems Immunology - Sidra Medicine
+_Developed and maintained by Laboratory of Translational Systems Immunology - Sidra Medicine_
 
 <a href="http://sepsis.gxbsidra.org/dm3/landing.gsp">Go to SysInflam HuDB Landing Page</a>
 
