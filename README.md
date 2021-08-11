@@ -2,7 +2,8 @@
 (<a href= "https://gxb-sidra.github.io/SysInflam-HuDB/Resources/Summary_Statistics_Release_v2.1.html">Click here to see all dataset collection list</a>)
 
 
-## SysInflam HuDB Release 2.2: August 11, 2021: SysInflam HuDB Dataset Release 2.2 is out with 05 additional studies. Model organisms will be included from this release onwards. (<a href= "https://gxb-sidra.github.io/SysInflam-HuDB/Resources/Summary_Statistics_Release_v2.1.html">Click here to see the summary statistics about the dataset collection</a>)
+## SysInflam HuDB Release 2.2: August 11, 2021: SysInflam HuDB Dataset Release 2.2 is out with 05 additional studies including model organism. (<a href= "https://gxb-sidra.github.io/SysInflam-HuDB/Resources/Summary_Statistics_Release_v2.1.html">Click here to see the summary statistics about the dataset collection</a>)
+_Important Note: Model organisms will be included from this release onwards_
 
 ## SysInflam HuDB Release 2.1: July 11, 2021: SysInflam HuDB Dataset Release 2.1 is out with 02 additional studies.(<a href= "https://gxb-sidra.github.io/SysInflam-HuDB/Resources/Summary_Statistics_Release_v2.1.html">Click here to see the summary statistics about the dataset collection</a>)
 
