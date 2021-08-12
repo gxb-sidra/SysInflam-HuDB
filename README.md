@@ -1,5 +1,5 @@
 # SysInflam HuDB Dataset Release and Updates: 
-(<a href= "https://gxb-sidra.github.io/SysInflam-HuDB/Resources/Summary_Statistics_Release_v2.1.html">Click here to see all dataset collection list</a>)
+(<a href= "https://gxb-sidra.github.io/SysInflam-HuDB/Resources/Datatable_release_full.html">Click here to see all dataset collection list</a>)
 
 
 _Important Note: Model organisms are now included from release 2.2 onwards_
