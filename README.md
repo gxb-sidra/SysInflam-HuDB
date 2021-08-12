@@ -1,10 +1,9 @@
 # SysInflam HuDB Dataset Release and Updates: 
-(<a href= "https://gxb-sidra.github.io/SysInflam-HuDB/Resources/Datatable_release_full.html">Click here to see all dataset collection list</a>)
+## (<a href= "https://gxb-sidra.github.io/SysInflam-HuDB/Resources/Datatable_release_full.html">Click here to see all dataset collection list</a>)
 
 
-_Important Note: Model organisms are now included from release 2.2 onwards_
 ## SysInflam HuDB Release 2.2: August 11, 2021: SysInflam HuDB Dataset Release 2.2 is out with 04 additional studies including model organisms. (<a href= "https://gxb-sidra.github.io/SysInflam-HuDB/Resources/Summary_Statistics_Release_v2.2.html">Click here to see the summary statistics about the dataset collection</a>)
-
+_Important Note: Model organisms are now included from release 2.2 onwards_
 
 |    |      A     |       B       |                       C                       |      D     |                                  E                                  |            F           |          G          |          H         |                  I                 |                        J                       |                                                K                                                |         L        |                     M                    |           N           |                    O                    |                          P                          |                                        Q                                        |          R          |                     S                    |                     T                    |                             U                             |
 |----|:----------:|:-------------:|:---------------------------------------------:|:----------:|:-------------------------------------------------------------------:|:----------------------:|:-------------------:|:------------------:|:----------------------------------:|:----------------------------------------------:|:-----------------------------------------------------------------------------------------------:|:----------------:|:----------------------------------------:|:---------------------:|:---------------------------------------:|:---------------------------------------------------:|:-------------------------------------------------------------------------------:|:-------------------:|:----------------------------------------:|:----------------------------------------:|:---------------------------------------------------------:|
