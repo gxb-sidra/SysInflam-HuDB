@@ -1,4 +1,4 @@
-# SysInflam HuDB Dataset Release and Updates: 
+# SysInflam HuDB Dataset Release and Updates 
 ## (<a href= "https://gxb-sidra.github.io/SysInflam-HuDB/Resources/Datatable_release_all.html">Click here to see all dataset collection release list</a>)
 
 
