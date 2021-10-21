@@ -1,7 +1,7 @@
 # SysInflam HuDB Dataset Release and Updates 
 
 ### Please cite your use of SysInflam HuDB in your publication:
-Toufiq M, Huang SSY, Boughorbel S, Alfaki M, Rinchai D, Saraiva LR, Chaussabel D, Garand M. SysInflam HuDB, a Web Resource for Mining Human Blood Cells Transcriptomic Data Associated with Systemic Inflammatory Responses to Sepsis. _J Immunol_. 2021 Nov 1;207(9):2195-2202. doi: 10.4049/jimmunol.2100697. (<a href= "https://pubmed.ncbi.nlm.nih.gov/34663591/">PMID : 34663591</a>)
+Toufiq M, Huang SSY, Boughorbel S, Alfaki M, Rinchai D, Saraiva LR, Chaussabel D, Garand M. SysInflam HuDB, a Web Resource for Mining Human Blood Cells Transcriptomic Data Associated with Systemic Inflammatory Responses to Sepsis. __J Immunol__. 2021 Nov 1;207(9):2195-2202. doi: 10.4049/jimmunol.2100697. (<a href= "https://pubmed.ncbi.nlm.nih.gov/34663591/">PMID : 34663591</a>)
 
 ## SysInflam HuDB All Dataset Release and Updates 
 ## (<a href= "https://gxb-sidra.github.io/SysInflam-HuDB/Resources/Datatable_release_all.html">Click here to see all dataset collection release list</a>)
